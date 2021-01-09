@@ -1,5 +1,5 @@
 # pw
-Python script for generating passwords
+Password generator written in python
 
 The passwords always have upper and lowercase letters, numbers and symbols.
 
@@ -12,6 +12,10 @@ Enter password length:
 Here is your password:
 
 1a#q%6=L\D#d4XpWu,<X@n&4?bcG~6$ItbOr!u>?Gy&&S"@aB8N_pa.USb?]
+
+## Binaries:
+
+You can find a Linux binary and a deb package under [Releases](https://github.com/JKakaofanatiker/pw/releases).
 
 ## Why is this a thing?
 
