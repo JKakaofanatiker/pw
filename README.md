@@ -13,7 +13,7 @@ Here is your password:
 
 1a#q%6=L\D#d4XpWu,<X@n&4?bcG~6$ItbOr!u>?Gy&&S"@aB8N_pa.USb?]
 
-###### Why is this a thing?
+## Why is this a thing?
 
 Many websites, apps, etc. allow passwords containing lowercase letters, numbers and symbols which is good.
 
