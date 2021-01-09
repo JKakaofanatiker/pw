@@ -17,4 +17,4 @@ Here is your password:
 
 Many websites, apps, etc. allow passwords containing upper and lowercase letters, numbers and symbols which is good.
 
-I normally use pwgen to generate passwords. But always typing many flags (like -y) annoyes me and I wanted to learn something so I created this.
+I normally use pwgen to generate passwords. But always typing many flags (like -y) annoys me and I wanted to learn something so I created this.
