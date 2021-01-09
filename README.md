@@ -15,6 +15,6 @@ Here is your password:
 
 ## Why is this a thing?
 
-Many websites, apps, etc. allow passwords containing lowercase letters, numbers and symbols which is good.
+Many websites, apps, etc. allow passwords containing upper and lowercase letters, numbers and symbols which is good.
 
 I normally use pwgen to generate passwords. But always typing many flags (like -y) annoyes me and I wanted to learn something so I created this.
