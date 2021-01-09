@@ -1,6 +1,8 @@
 # pw
 Python script for generating passwords
 
+The passwords always have upper and lowercase letters, numbers and symbols.
+
 ## Example:
 
 Enter password length:
